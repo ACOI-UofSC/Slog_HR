@@ -1,1 +1,1 @@
-# Fitabase_HR
+# The Slogger App for Android Watches and Tablets
